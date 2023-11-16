@@ -1,7 +1,7 @@
 {
     "webview": {
         "siteurl": "https://google.com",
-        "network": "webview",
+        "network": "webview"
      
     }
 }
